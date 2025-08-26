@@ -1,5 +1,4 @@
 # Telecom-Customer-Churn-Analysis
-Telecom Customer Churn Analysis 
 
 ## Project Overview
 This project aims to analyze a telecom customer dataset to understand the factors influencing customer churn and to build a predictive model that can identify customers at risk of leaving the service. The analysis includes data preprocessing, exploratory data visualization, and the evaluation of multiple machine learning models to find the best-performing one.
